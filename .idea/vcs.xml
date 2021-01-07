@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/AttendanceSheetRecongnition" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AttendeceSheetImageProcessing" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AttendenceSheetImageProcessing" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TableDataExtractor" vcs="Git" />
+  </component>
+</project>
