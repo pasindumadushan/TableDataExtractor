@@ -270,6 +270,6 @@ Following graph is displayed when executing the above code. The graph represents
 
 ![](https://github.com/pasindumadushan/TableDataExtractor/blob/master/Readme%20Inages/Sheet5.PNG)
 
-![](https://github.com/pasindumadushan/TableDataExtractor/blob/master/Readme%20Inages/Summery of 2,3,4,5 Sheets.PNG)
+![](https://github.com/pasindumadushan/TableDataExtractor/blob/master/Readme%20Inages/Summeryof2,3,4,5Sheets.PNG)
 
 
